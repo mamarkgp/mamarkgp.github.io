@@ -19,18 +19,18 @@
 .wellness-announcement-header{
     font-family: MontserratBold;
     margin-bottom: 5px;
-    font-size: 28px;
+    font-size: 21px;
 }
 
 .wellness-announcement-content{
     font-family: MontserratLight;
     color: #a0a0a0;
-    font-size: 21px;
-    margin-left: 25px;
+    font-size: 18px;
+    margin-left: 16px;
 }
 
 .dash{
-    font-size: 40px;
+    font-size: 28px;
     margin-top: 15px;
 }
 
