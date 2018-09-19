@@ -1,0 +1,47 @@
+/* fonts */
+@font-face {
+    font-family: MontserratBold;
+    src: url("../resources/montserrat/Montserrat-Medium.otf") format("opentype")
+}
+
+@font-face {
+    font-family: MontserratLight;
+    src: url("../resources/montserrat/Montserrat-Light.otf") format("opentype")
+}
+/* end fonts */
+
+/* content */
+
+.wellness-announcement{
+    margin: 10px;
+}
+
+.wellness-announcement-header{
+    font-family: MontserratBold;
+    margin-bottom: 5px;
+    font-size: 28px;
+}
+
+.wellness-announcement-content{
+    font-family: MontserratLight;
+    color: #a0a0a0;
+    font-size: 21px;
+}
+
+.dash{
+    font-size: 40px;
+    margin-top: 15px;
+}
+
+.magenta{
+    color: rgb(102,0,0);
+}
+
+.purple{
+    color: rgb(102,102,255);
+}
+
+.orange{
+    color: rgb(255,128,0);
+}
+/* end content */
